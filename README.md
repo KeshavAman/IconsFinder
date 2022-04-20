@@ -18,3 +18,5 @@ An android app using the IconFinder API .Developed a that lists all the icon of 
 1. OkHttp and Retrofit for networking</br>
 2. Dagger for dependency injection</br>
 3. RxJava / coroutines</br>
+
+<img src="screenshots1.jpeg" width=40%>&nbsp;&nbsp;&nbsp;<img src="screenshot2.jpeg" width=40%>
