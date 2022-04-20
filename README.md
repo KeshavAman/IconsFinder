@@ -19,5 +19,5 @@ An android app using the IconFinder API .Developed a that lists all the icon of 
 2. Dagger for dependency injection</br>
 3. RxJava / coroutines</br>
 
-<img src="https://user-images.githubusercontent.com/84775242/164321793-57dab8f6-b38b-4c29-bd91-8b38857a3987.jpeg" width=40%>&nbsp;&nbsp;&nbsp;<img src="screenshot2.jpeg" width=40%>
-![screenshot1](https://user-images.githubusercontent.com/84775242/164321793-57dab8f6-b38b-4c29-bd91-8b38857a3987.jpeg)
+<hr/>
+<img src="https://user-images.githubusercontent.com/84775242/164321793-57dab8f6-b38b-4c29-bd91-8b38857a3987.jpeg" width=30%>&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/84775242/164322050-737f6e82-96e6-4064-9c8c-c8beb590d727.jpeg" width=30%>
